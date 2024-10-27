@@ -1,0 +1,8 @@
+/* static/css/styles.css */
+body {
+    font-family: Arial, sans-serif;
+}
+.login-container {
+    max-width: 300px;
+    margin: 0 auto;
+}
